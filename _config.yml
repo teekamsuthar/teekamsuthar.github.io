@@ -1,5 +1,5 @@
 title: Teekam Suthar
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Portfolio
+show_downloads: false
+google_analytics: UA-146000045-1
 theme: jekyll-theme-cayman
