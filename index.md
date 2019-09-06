@@ -3,9 +3,8 @@ layout: default
 ---
 
 
-😄 **Hey There!** 😄
+##😄 **Hey There!** 😄
 
-##
 
 _Thank you for visiting my site._ 👏
 
