@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-
+---
 ### Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+---
+#
 😄 **Hey There!** 😄
 
 **Thank you for visiting my site. :clap:
