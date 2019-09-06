@@ -11,4 +11,4 @@ Your patience is highly appriciated!
 
 Till then, you might want to check out my social profiles!
 
-[Link to another page](./www.instagram.com/teekamsuthar).
+[Instagram](https://instagram.com/teekamsuthar).
