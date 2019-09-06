@@ -2,17 +2,17 @@
 layout: default
 ---
 
----
+#
 😄 **Hey There!** 😄
----
+##
 _Thank you for visiting my site._ 👏
----
+###
 _Currently, it is under construction!_ 🚧
----
+###
 _Your patience is highly appriciated!_ ⌚
----
+####
 _Till then, you might want to check out my social profiles!_
----
+
 
 ![Instagram](./icons/icons8-instagram-50.png)
 [Instagram](https://instagram.com/teekamsuthar).
