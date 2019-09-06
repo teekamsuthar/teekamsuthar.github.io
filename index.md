@@ -2,18 +2,16 @@
 layout: default
 ---
 
-#
+
 😄 **Hey There!** 😄
 
+##
 
 _Thank you for visiting my site._ 👏
 
-
 _Currently, it is under construction!_ 🚧
 
-
 _Your patience is highly appriciated!_ ⌚
-
 
 _Till then, you might want to check out my social profiles!_
 
