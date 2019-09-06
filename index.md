@@ -4,12 +4,13 @@ layout: default
 
 ---
 
-###😄 **Hey There!** 😄
+#
+😄 **Hey There!** 😄
 
-##**Thank you for visiting my site.** 👏
-#**Currently, it is under construction! 🚧
+**Thank you for visiting my site.** 👏
+**Currently, it is under construction! 🚧
 Your patience is highly appriciated! ⌚
-
+##
 Till then, you might want to check out my social profiles!**
 ---
 ![Instagram](./icons/icons8-instagram-50.png)
