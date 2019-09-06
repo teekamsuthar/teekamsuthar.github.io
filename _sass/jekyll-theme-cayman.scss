@@ -32,6 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  text-align: center;
 }
 
 #skip-to-content {
@@ -182,7 +183,7 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
-  
+
   kbd {
     background-color: #fafbfc;
     border: 1px solid #c6cbd1;
