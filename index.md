@@ -3,5 +3,12 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Hey There!**
 
-[Link to another page](./indexback.html).
+Thank you for visiting my site.
+Currently, it is under construction!
+Your patience is highly appriciated!
+
+Till then, you might want to check out my social profiles!
+
+[Link to another page](./www.instagram.com/teekamsuthar).
