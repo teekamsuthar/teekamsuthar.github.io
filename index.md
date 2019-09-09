@@ -17,8 +17,7 @@ _Till then, you might want to check out my social profiles!_👇
 
 ![Instagram](./icons/icons8-instagram-50.png)
 [Instagram](https://instagram.com/teekamsuthar).
-![Facebook](./icons/icons8-facebook-old-50.png)
-[Facebook](https://www.facebook.com/teekam.suthar.79).
+![Facebook](./icons/icons8-facebook-old-50.png)(https://www.facebook.com/teekam.suthar.79).
 
 
 ![Twitter](./icons/icons8-twitter-50.png)
