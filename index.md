@@ -16,7 +16,7 @@ _Till then, you might want to check out my social profiles!_👇
 
 [html link for video directly hosted](./hello/Untitled Project/Untitled Project.html)
 
-[s3 hosted video](https://recursiveroot-961324320976-us-east-1.s3.amazonaws.com/roundup-03-developing-great-apps.mp4)
+[s3 hosted video](https://s3.amazonaws.com/com.example.recursiveroot/Untitled+Project.mp4)
 
 ![Instagram](./icons/icons8-instagram-50.png)
 [Instagram](https://instagram.com/teekamsuthar).
