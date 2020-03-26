@@ -8,9 +8,7 @@ _Thank you for visiting._ 👏
 
 _Currently, the site is under development!_ 🚧
 
-_Your patience is highly appriciated!_ ⌚
-
-*Till then, you might want to check out my social profiles!*👇
+*Till then, you can connect with me on any of these social profiles!*👇
 
 ![Instagram](./icons/icons8-instagram-50.png)
 [Instagram](https://instagram.com/teekamsuthar).
