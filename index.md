@@ -22,9 +22,9 @@ _Your patience is highly appriciated!_ ⌚
 ![LinkedIn](./icons/icons8-linkedin-50.png)
 [LinkedIn](https://www.linkedin.com/in/teekam-suthar-59730b171/).
 
-![Telegram](./icons/icons8_telegram_app_100px.png)
+![Telegram](./icons/icons8_telegram_app_50px.png)
 [Telegram](https://t.me/teekamsuthar).
-![Discord](./icons/icons8_discord_100px.png)
+![Discord](./icons/icons8_discord_50px.png)
 [Discord](https://discord.gg/T33Qb7).
-![Reddit](./icons/icons8_reddit_96px.png)
+![Reddit](./icons/icons8_reddit_48px.png)
 [Reddit](https://www.reddit.com/user/teekamsuthar).
