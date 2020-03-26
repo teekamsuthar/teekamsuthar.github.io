@@ -8,7 +8,7 @@ layout: default
 
 _Thank you for visiting._ 👏
 
-_Currently, it is under construction!_ 🚧
+_Currently, the site is under development!_ 🚧
 
 _Your patience is highly appriciated!_ ⌚
 
