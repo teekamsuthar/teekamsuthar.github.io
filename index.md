@@ -3,10 +3,10 @@ layout: default
 ---
 
 
-😄 **Hey There!** 😄
+**Hey There!** 👋🏼
 
 
-_Thank you for visiting this site._ 👏
+_Thank you for visiting._ 👏
 
 _Currently, it is under construction!_ 🚧
 
@@ -14,9 +14,6 @@ _Your patience is highly appriciated!_ ⌚
 
 _Till then, you might want to check out my social profiles!_👇
 
-//[html link for video directly hosted](./hello/Untitled Project/Untitled Project.html)
-
-//[s3 hosted video](https://s3.amazonaws.com/com.example.recursiveroot/Untitled+Project.mp4)
 
 ![Instagram](./icons/icons8-instagram-50.png)
 [Instagram](https://instagram.com/teekamsuthar).
