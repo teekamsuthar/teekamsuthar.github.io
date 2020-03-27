@@ -13,7 +13,7 @@ _Currently, the site is under development!_ 🚧
 ![Instagram](./icons/icons8-instagram-50.png)
 [Instagram](https://instagram.com/teekamsuthar).
 ![Facebook](./icons/icons8-facebook-old-50.png)
-[Facebook](https://www.facebook.com/tikam.suthar.982).
+[Facebook](https://www.facebook.com/iteekamsuthar).
 
 ![Twitter](./icons/icons8-twitter-50.png)
 [Twitter](https://twitter.com/Teekam_Suthar).
