@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: rgb(207, 207, 207);
+  background-color: rgb(255, 255, 255);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -12,12 +12,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
-  align-content: center;
+  align-items: center;
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-  align-content: center;
+  align-items: center;
 }
 
 h1, h2, h3 {
