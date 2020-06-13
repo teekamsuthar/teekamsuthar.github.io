@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![WELCOME](./assets/img/welcome_cats.png)
+
 **Hey There!** 👋🏼
 
 _Thank you for visiting._ 👏
