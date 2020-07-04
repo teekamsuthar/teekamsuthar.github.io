@@ -4,6 +4,8 @@ layout: default
 
 ![WELCOME](./assets/img/welcome_cats.png)
 
+**Click here**(./wish.html).
+
 **Hey There!** 👋🏼
 
 _Thank you for visiting._ 👏
