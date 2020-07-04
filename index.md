@@ -4,11 +4,7 @@ layout: default
 
 ![WELCOME](./assets/img/welcome_cats.png)
 
-
-
-👉👉👉👉[SURPRISE LINK](./wish.html).👈👈👈👈
-
-
+<!-- 👉👉👉👉[SURPRISE LINK](./wish.html).👈👈👈👈 -->
 
 **Hey There!** 👋🏼
 
