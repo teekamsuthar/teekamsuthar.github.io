@@ -106,6 +106,10 @@ layout: default
   <a href="https://instagram.com/teekamsuthar/">
     <img align="center" alt="Teekam's Instagram" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
-  <a href="https://www.facebook.com/imteekamsuthar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Teekam's Facebook" height="30" width="50" /></a>
-  <a href="https://medium.com/@teekamsuthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rizwansoaib" height="30" width="50" /></a>
+  <a href="https://www.facebook.com/imteekamsuthar/">
+    <img align="center" alt="Teekam's Facebook" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />
+    </a>
+  <a href="https://medium.com/@teekamsuthar">
+    <img align="center" alt="@teekamsuthar" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+  </a>
 </p>
