@@ -93,7 +93,7 @@ layout: default
   <a href="https://instagram.com/teekamsuthar/">
     <img align="center" alt="Teekam's Instagram" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
-  <a href="https://www.facebook.com/imteekamsuthar/">
+  <a href="https://www.facebook.com/iamteekamsuthar/">
     <img align="center" alt="Teekam's Facebook" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />
     </a>
   <a href="https://medium.com/@teekamsuthar">
