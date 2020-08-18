@@ -40,14 +40,10 @@ layout: default
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a bathroom singer.🎤
 
- <br/>
-
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
 ![Website](https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic)
-
-<br/>
 
 <!-- <a href="https://github.com/teekamsuthar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&theme=light&hide_langs_below=0" />
@@ -57,10 +53,7 @@ layout: default
   <a href="https://github.com/teekamsuthar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
   </a>
-  <br>
-  
   <!-- <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/> -->
-
 </p>
 
 <p align="center"><h2 align="center">⚡ Languages and Tools:</h2></p>
@@ -76,6 +69,8 @@ layout: default
 <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"> </p>
+
+<br>
 
 <p align="center"><h2 align="center">🌐 Connect with me on:</h2></p>
 
@@ -105,3 +100,5 @@ layout: default
     <img align="center" alt="@teekamsuthar" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
   </a>
 </p>
+
+<br>
