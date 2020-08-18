@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<!-- ![WELCOME](./assets/img/welcome_cats.png) -->
-
-<!-- 👉👉👉👉[SURPRISE LINK](./wish.html).👈👈👈👈 -->
-
 <!-- **Hey There!** 👋🏼 -->
 
 <!-- _Thank you for visiting._ 👏 -->
@@ -35,6 +31,8 @@ layout: default
 
 ## I'm [Teekam Suthar!](http://teekamsuthar.me)
 
+![WELCOME](./assets/img/welcome_cats.png)
+
 - 🔭 I’m currently working as an Android App Dev.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on OpenSource Projects.
@@ -47,9 +45,7 @@ layout: default
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
-[![Website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me)
 ![Website](https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic)
-<!-- <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" />  -->
 
 <br/>
 
