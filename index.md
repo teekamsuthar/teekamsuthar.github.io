@@ -31,7 +31,7 @@ layout: default
 ![Reddit](./icons/icons8_reddit_48px.png)
 [Reddit](https://www.reddit.com/user/teekamsuthar). -->
 
-# 🙏 Namaste
+# Namaste 🙏
 
 ## I'm [Teekam Suthar!](http://teekamsuthar.me)
 
@@ -44,18 +44,14 @@ layout: default
 
  <br/>
 
-
-<p align="center">
-
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
-[![Website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me) 
+[![Website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me)
 ![Website](https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic)
 <!-- <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" />  -->
-</p>
 
-<br>
+<br/>
 
 <!-- <a href="https://github.com/teekamsuthar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&theme=light&hide_langs_below=0" />
