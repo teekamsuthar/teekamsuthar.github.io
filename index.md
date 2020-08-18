@@ -6,14 +6,14 @@ layout: default
 
 ## I'm [Teekam Suthar!](http://teekamsuthar.me)
 
-![WELCOME](./assets/img/welcome_cats.png)
-
 - 🔭 I’m currently working as an Android App Dev.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 📫 How to reach me: [@teekamsuthar](https://instagram.com/teekamsuthar) on Instagram
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a bathroom singer.🎤
+
+![WELCOME](./assets/img/welcome_cats.png)
 
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
