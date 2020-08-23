@@ -1,6 +1,6 @@
 title: Teekam Suthar
 logo: assets/img/teekamsutharlow.png
 description: Portfolio
-show_downloads: false
+show_downloads: true
 google_analytics: UA-146000045-1
 theme: jekyll-theme-minimal
