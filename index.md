@@ -4,7 +4,7 @@ layout: default
 
 # Namaste 🙏
 
-## I'm [Teekam Suthar!](http://teekamsuthar.me)
+## I'm [Teekam Suthar!](https://teekamsuthar.live)
 
 - 🔭 I’m currently working as an Android App Dev.
 - 🌱 I’m currently learning Flutter.
