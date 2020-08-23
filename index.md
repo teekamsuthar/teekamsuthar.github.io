@@ -11,7 +11,7 @@ layout: default
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 📫 How to reach me: [@teekamsuthar](https://instagram.com/teekamsuthar) on Instagram
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a bathroom singer.🎤
+- ⚡ Fun fact: I hit walls, when I'm bored. 🤷🏼‍♂️
 
 ![WELCOME](./assets/img/welcome_cats.png)
 
