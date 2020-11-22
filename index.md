@@ -12,8 +12,12 @@ layout: default
 - 📫 How to reach me: [@teekamsuthar](https://instagram.com/teekamsuthar) on Instagram
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hit walls, when I'm bored. 🤷🏼‍♂️
+  
+===================
 
 ## Checkout my CS50 Final Project [here](https://github.com/teekamsuthar/Mutify) And Watch video on [YouTube](https://youtu.be/NWldU02HcFs)
+
+===================
 
 ![WELCOME](./assets/img/welcome_cats.png)
 
