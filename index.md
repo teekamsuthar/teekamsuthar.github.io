@@ -13,6 +13,8 @@ layout: default
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hit walls, when I'm bored. 🤷🏼‍♂️
 
+## Checkout my CS50 Final Project [here](https://github.com/teekamsuthar/Mutify) And Watch video on [YouTube](https://youtu.be/NWldU02HcFs)
+
 ![WELCOME](./assets/img/welcome_cats.png)
 
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
