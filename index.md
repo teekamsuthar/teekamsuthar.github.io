@@ -15,7 +15,7 @@ layout: default
   
 ==============================
 
-## Checkout my CS50 Final Project [here](https://github.com/teekamsuthar/Mutify) And Watch video on [YouTube](https://youtu.be/NWldU02HcFs) Or read [article](https://android.gadgethacks.com/how-to/automatically-mute-all-spotify-ads-android-0384185/) about it.
+## Checkout my CS50 Final Project [here](https://github.com/teekamsuthar/Mutify) And Watch video on [YouTube](https://youtu.be/NWldU02HcFs) Or read [an article](https://android.gadgethacks.com/how-to/automatically-mute-all-spotify-ads-android-0384185/) about how it works.
 
 ### Download Mutify on [Play Store](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify)
 
