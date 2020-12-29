@@ -13,9 +13,9 @@ layout: default
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hit walls, when I'm bored. 🤷🏼‍♂️
   
-===================
+==============================
 
-## Checkout my CS50 Final Project [here](https://github.com/teekamsuthar/Mutify) And Watch video on [YouTube](https://youtu.be/NWldU02HcFs)
+## Checkout my CS50 Final Project [here](https://github.com/teekamsuthar/Mutify) And Watch video on [YouTube](https://youtu.be/NWldU02HcFs) Or read [article](https://android.gadgethacks.com/how-to/automatically-mute-all-spotify-ads-android-0384185/) about it.
 
 ### Download Mutify on [Play Store](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify)
 
@@ -24,7 +24,7 @@ layout: default
 <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify"> <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" align="center" height="120"></a>
 <br>
 
-===================
+==============================
 
 ![WELCOME](./assets/img/welcome_cats.png)
 
