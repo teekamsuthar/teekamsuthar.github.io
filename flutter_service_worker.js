@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ada1b4a478b7e70d4d86e359ad6a9fdb",
+  "assets/AssetManifest.json": "ba6f7a99eff0c91382f259bdc31aae39",
 "assets/assets/animations/bg_night.json": "cacfe4d1d254d8d9f98679c0e2b9620b",
 "assets/assets/animations/bubbles.json": "7f3ca347ebb1a55e2a58cc6b88325c87",
 "assets/assets/animations/christmas_bg.json": "873b86f443ea2bb77462bd276d19026a",
@@ -54,6 +54,8 @@ const RESOURCES = {
 "assets/assets/img/programming.png": "b61c8a6823d4d51afc9788b3a428f9e9",
 "assets/assets/img/social_media.png": "d8911ae5ef8d0d245e4e2184b8cef2f6",
 "assets/assets/img/store.png": "db9b21a1c41f3dcd9731e1e7acfdbb57",
+"assets/assets/img/sv.png": "663c03751257d28e99371060abf2ad96",
+"assets/assets/img/SV_banner.png": "40f2be29ce011ece7a6c3410e16b53e6",
 "assets/assets/img/teekamsuthar_tattoo.jpg": "7a11fa9a390b1c77840eb1feb6dee49f",
 "assets/assets/img/welcome_cats.png": "074fc00aa9b3e6dc66fb648765e4fdc7",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
@@ -66,9 +68,9 @@ const RESOURCES = {
 "favicon.png": "d63aa4d93119c56e9c42ade156339fc8",
 "icons/Icon-192.png": "8b542ddace6035374e22aae5cbb8f4d8",
 "icons/Icon-512.png": "5f8db9c85983f9e2bd20d042da55b436",
-"index.html": "40e0deac02ec3192ba4340942900e892",
-"/": "40e0deac02ec3192ba4340942900e892",
-"main.dart.js": "4e198dcb495761b382360985b1929e60",
+"index.html": "5878bdb929cd74ba3d95d9c847a2e066",
+"/": "5878bdb929cd74ba3d95d9c847a2e066",
+"main.dart.js": "af50e44b4f5fe4798e377b3397c2ed98",
 "manifest.json": "29ed74f095004080cd8e34cf4832e378",
 "version.json": "49ccc44401fdd5554d017ba8c8cc1cbf"
 };
