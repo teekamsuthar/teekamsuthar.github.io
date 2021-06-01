@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6f49399438bfcfe348fa61da70ba00d2",
+  "assets/AssetManifest.json": "ada1b4a478b7e70d4d86e359ad6a9fdb",
 "assets/assets/animations/bg_night.json": "cacfe4d1d254d8d9f98679c0e2b9620b",
 "assets/assets/animations/bubbles.json": "7f3ca347ebb1a55e2a58cc6b88325c87",
 "assets/assets/animations/christmas_bg.json": "873b86f443ea2bb77462bd276d19026a",
@@ -44,17 +44,21 @@ const RESOURCES = {
 "assets/assets/img/favicon.ico": "d63aa4d93119c56e9c42ade156339fc8",
 "assets/assets/img/flutter.png": "a39807a4878aa03a393a27e680ac1c94",
 "assets/assets/img/logo.png": "be4b92e2c9ab729f79e2b4364c395496",
+"assets/assets/img/mail.png": "08b049bbb1b3f31d8055d305bb4f5bc3",
+"assets/assets/img/mail_2.png": "7325ff66fc99f64d1cb24b79c09cf9d9",
+"assets/assets/img/mail_sent.png": "f8be83ebb939d2c82326903e85d9cd1a",
 "assets/assets/img/mobile_app.png": "4d79f409509d6a70b4dfeca39c38de7b",
 "assets/assets/img/mutify_banner.png": "beed8d8d0a7aaad47166debe5a7ab57f",
 "assets/assets/img/mutify_logo.png": "172f0bce6c44dca2ee2c44b4c2aa40b4",
 "assets/assets/img/portfolio_feedback.png": "d395ae5252d0467286db409c432daac0",
 "assets/assets/img/programming.png": "b61c8a6823d4d51afc9788b3a428f9e9",
 "assets/assets/img/social_media.png": "d8911ae5ef8d0d245e4e2184b8cef2f6",
+"assets/assets/img/store.png": "db9b21a1c41f3dcd9731e1e7acfdbb57",
 "assets/assets/img/teekamsuthar_tattoo.jpg": "7a11fa9a390b1c77840eb1feb6dee49f",
 "assets/assets/img/welcome_cats.png": "074fc00aa9b3e6dc66fb648765e4fdc7",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "642cb2b699c331fb22cf626a0f8bab6c",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/NOTICES": "ecc0696eab68ce40a01eea78cce3c635",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
@@ -62,9 +66,9 @@ const RESOURCES = {
 "favicon.png": "d63aa4d93119c56e9c42ade156339fc8",
 "icons/Icon-192.png": "8b542ddace6035374e22aae5cbb8f4d8",
 "icons/Icon-512.png": "5f8db9c85983f9e2bd20d042da55b436",
-"index.html": "e83f953d8ae1ba8a75aa0eaa00304649",
-"/": "e83f953d8ae1ba8a75aa0eaa00304649",
-"main.dart.js": "61978b88effb82a06f6e09bbc0bae253",
+"index.html": "40e0deac02ec3192ba4340942900e892",
+"/": "40e0deac02ec3192ba4340942900e892",
+"main.dart.js": "4e198dcb495761b382360985b1929e60",
 "manifest.json": "29ed74f095004080cd8e34cf4832e378",
 "version.json": "49ccc44401fdd5554d017ba8c8cc1cbf"
 };
@@ -84,7 +88,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
