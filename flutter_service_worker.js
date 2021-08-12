@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ba6f7a99eff0c91382f259bdc31aae39",
+  "assets/AssetManifest.json": "2ab1411b12e3029e26ab5ff7222cae42",
 "assets/assets/animations/bg_night.json": "cacfe4d1d254d8d9f98679c0e2b9620b",
 "assets/assets/animations/bubbles.json": "7f3ca347ebb1a55e2a58cc6b88325c87",
 "assets/assets/animations/christmas_bg.json": "873b86f443ea2bb77462bd276d19026a",
@@ -43,6 +43,7 @@ const RESOURCES = {
 "assets/assets/img/coding.png": "25163958644518a2fb656dfd4ab8b6cd",
 "assets/assets/img/favicon.ico": "d63aa4d93119c56e9c42ade156339fc8",
 "assets/assets/img/flutter.png": "a39807a4878aa03a393a27e680ac1c94",
+"assets/assets/img/logo.jpeg": "f342db8cf782188fbf6cd08fa58030e0",
 "assets/assets/img/logo.png": "be4b92e2c9ab729f79e2b4364c395496",
 "assets/assets/img/mail.png": "08b049bbb1b3f31d8055d305bb4f5bc3",
 "assets/assets/img/mail_2.png": "7325ff66fc99f64d1cb24b79c09cf9d9",
@@ -68,9 +69,9 @@ const RESOURCES = {
 "favicon.png": "d63aa4d93119c56e9c42ade156339fc8",
 "icons/Icon-192.png": "8b542ddace6035374e22aae5cbb8f4d8",
 "icons/Icon-512.png": "5f8db9c85983f9e2bd20d042da55b436",
-"index.html": "5878bdb929cd74ba3d95d9c847a2e066",
-"/": "5878bdb929cd74ba3d95d9c847a2e066",
-"main.dart.js": "af50e44b4f5fe4798e377b3397c2ed98",
+"index.html": "9f8fa9be98e49fa41b23f540208f209f",
+"/": "9f8fa9be98e49fa41b23f540208f209f",
+"main.dart.js": "43f812ebc27fa7519ac95acd5c94a7e8",
 "manifest.json": "29ed74f095004080cd8e34cf4832e378",
 "version.json": "49ccc44401fdd5554d017ba8c8cc1cbf"
 };
