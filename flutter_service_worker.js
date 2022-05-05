@@ -47,7 +47,6 @@ const RESOURCES = {
 "assets/assets/img/favicon.ico": "d63aa4d93119c56e9c42ade156339fc8",
 "assets/assets/img/Fiftygram.png": "5fb9c32c2a87091906f42696734ea5a1",
 "assets/assets/img/flutter.png": "a39807a4878aa03a393a27e680ac1c94",
-"assets/assets/img/logo.jpeg": "f342db8cf782188fbf6cd08fa58030e0",
 "assets/assets/img/logo.jpg": "2e812fbb6ae2f31beab8ffb6642e9480",
 "assets/assets/img/logo.jpgbak": "57b739121e36e40d2796faa35251f6c7",
 "assets/assets/img/mail.png": "08b049bbb1b3f31d8055d305bb4f5bc3",
@@ -68,7 +67,7 @@ const RESOURCES = {
 "assets/assets/img/SV_banner.png": "4fa216fddb8ba2807e34e9e6de9e2070",
 "assets/assets/img/welcome_cats.png": "074fc00aa9b3e6dc66fb648765e4fdc7",
 "assets/assets/index.html": "6879b69e54a73d15d9dc4297f80d5bfd",
-"/": "687439172ad92b7ec2553f3a6b15727c",
+"/": "5f43662d836f8122846dc2e1c3c2aa09",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/index.html": "6879b69e54a73d15d9dc4297f80d5bfd",
@@ -105,8 +104,8 @@ const RESOURCES = {
 "favicon.png": "d63aa4d93119c56e9c42ade156339fc8",
 "icons/Icon-192.png": "8b542ddace6035374e22aae5cbb8f4d8",
 "icons/Icon-512.png": "5f8db9c85983f9e2bd20d042da55b436",
-"index.html": "687439172ad92b7ec2553f3a6b15727c",
-"main.dart.js": "84634224783b5b98ff81ab7094ef8ab1",
+"index.html": "5f43662d836f8122846dc2e1c3c2aa09",
+"main.dart.js": "14252e7455ae7a4c57e7408e6faa3366",
 "manifest.json": "29ed74f095004080cd8e34cf4832e378",
 "version.json": "580d374ea841b65e04586c0179766ed6"
 };
