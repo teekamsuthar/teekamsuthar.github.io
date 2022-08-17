@@ -67,11 +67,11 @@ const RESOURCES = {
 "assets/assets/img/SV_banner.png": "4fa216fddb8ba2807e34e9e6de9e2070",
 "assets/assets/img/welcome_cats.png": "074fc00aa9b3e6dc66fb648765e4fdc7",
 "assets/assets/index.html": "6879b69e54a73d15d9dc4297f80d5bfd",
-"/": "5f43662d836f8122846dc2e1c3c2aa09",
+"/": "aac955789bea43e1a9207219ffe9de4b",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/index.html": "6879b69e54a73d15d9dc4297f80d5bfd",
-"assets/NOTICES": "13feea9d059da3e87ad3858daa79f97a",
+"assets/NOTICES": "23caf9c84d4a71b9fe2dc78b207afcc5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
@@ -102,10 +102,11 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "d63aa4d93119c56e9c42ade156339fc8",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "8b542ddace6035374e22aae5cbb8f4d8",
 "icons/Icon-512.png": "5f8db9c85983f9e2bd20d042da55b436",
-"index.html": "5f43662d836f8122846dc2e1c3c2aa09",
-"main.dart.js": "14252e7455ae7a4c57e7408e6faa3366",
+"index.html": "aac955789bea43e1a9207219ffe9de4b",
+"main.dart.js": "45eee7b61a743f87ab28c93faf2128f4",
 "manifest.json": "29ed74f095004080cd8e34cf4832e378",
 "version.json": "580d374ea841b65e04586c0179766ed6"
 };
@@ -113,8 +114,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
