@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "580d374ea841b65e04586c0179766ed6",
-"index.html": "14f0e4420457a6ba33cd4a82e407fc65",
-"/": "14f0e4420457a6ba33cd4a82e407fc65",
-"main.dart.js": "f36c33295eccac42b50fa5c0f0e92a22",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "6dd2e347dcf7e8ee48ee90924a1b6563",
+"/": "6dd2e347dcf7e8ee48ee90924a1b6563",
+"main.dart.js": "fb977e0a0aa73750340d0d2db65927b4",
 "favicon.png": "d63aa4d93119c56e9c42ade156339fc8",
 "icons/Icon-192.png": "8b542ddace6035374e22aae5cbb8f4d8",
 "icons/Icon-512.png": "5f8db9c85983f9e2bd20d042da55b436",
@@ -102,11 +101,7 @@ const RESOURCES = {
 "assets/assets/animations/twitter.json": "b485cab12c12995f625927f3ea88368d",
 "assets/assets/animations/welcome_one.json": "7732a109d7bccd72a9ac2163d7d099d4",
 "assets/assets/animations/switch_daynight.json": "c6aba44a865042e443b38966563c9ba5",
-"assets/assets/animations/linkedin.json": "497dab9c3874078a7088612e5753ea7c",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/animations/linkedin.json": "497dab9c3874078a7088612e5753ea7c"
 };
 
 // The application shell files that are downloaded before a service worker can
